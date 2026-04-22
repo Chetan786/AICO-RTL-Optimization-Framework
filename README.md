@@ -32,3 +32,17 @@ RTL → Parse → STA → Repair → Rank → Decide → Learn → Visualize
 - Power-aware optimization
 - Multi-module support
 - GUI dashboard
+
+## Dashboard Outputs
+
+### Optimization Score Trend
+
+![Score Trend](dashboard/score_trend.png)
+
+### Confidence Trend
+
+![Confidence Trend](dashboard/confidence_trend.png)
+
+### Slack History
+
+![Slack](dashboard/slack_history.png)
