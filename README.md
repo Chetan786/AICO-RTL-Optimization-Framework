@@ -46,3 +46,10 @@ RTL → Parse → STA → Repair → Rank → Decide → Learn → Visualize
 ### Slack History
 
 ![Slack](dashboard/slack_history.png)
+
+
+## Intellectual Property Notice
+
+This project is an original research and engineering framework developed by Chetan Sai Raj.
+
+Unauthorized redistribution, commercial use, or claiming ownership of this work is prohibited.
