@@ -1,0 +1,100 @@
+[
+    {
+        "timestamp": "2026-04-23 01:10:45",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:11:53",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:13:12",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:16:16",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:17:52",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:46:35",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:47:28",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:50:50",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:52:57",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:54:59",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:57:25",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:57:44",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 01:59:56",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    },
+    {
+        "timestamp": "2026-04-23 02:00:41",
+        "repair": "w2",
+        "score": 9.0,
+        "slack": 0,
+        "confidence": 90.0
+    }
+]
